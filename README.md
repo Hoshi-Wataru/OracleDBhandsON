@@ -12,10 +12,10 @@
 
 ④「①」で回答したフォルダの中に存在する「sqldeveloper.exe」をダブルクリックしコンソールツールを起動する。
 
-⑤「sqldeveloper」にて以下の情報を入力し「テスト」を押下し正常に動作することを確認したのち「接続」を実施する。
-・[Name (接続名)] ：HandosON-Oracle-RDS
-・[Username (ユーザーネーム)] ：admin
-・[Password (パスワード)]：HandsONPassword
-・[Hostname (ホスト名)] ：「③」の値を入力する
-・[Port (ポート)] ：1521
-・[SID] ：ORCL
+⑤「sqldeveloper」にて以下の情報を入力し「テスト」を押下し正常に動作することを確認したのち「接続」を実施する。  
+・[Name (接続名)] ：HandosON-Oracle-RDS  
+・[Username (ユーザーネーム)] ：admin  
+・[Password (パスワード)]：HandsONPassword  
+・[Hostname (ホスト名)] ：「③」の値を入力する  
+・[Port (ポート)] ：1521  
+・[SID] ：ORCL  
