@@ -19,3 +19,9 @@
 ・[Hostname (ホスト名)] ：「③」の値を入力する  
 ・[Port (ポート)] ：1521  
 ・[SID] ：ORCL  
+
+⑥接続確認テスト   
+SELECT NAME FROM V$DATABASE;  
+※CTRL+Enter
+
+「ORCL」が出力されること。
