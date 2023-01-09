@@ -8,7 +8,7 @@
 
 ②AWSで「01_CloudFormation」の中にあるyamlファイルをCloudFormatinで実行する。
 
-③CloudFormationの出力タブより「RDSPublicIP」の値を取得する。
+③CloudFormationの出力タブより「RDSEndpointAddress」の値を取得する。
 
 ④「①」で回答したフォルダの中に存在する「sqldeveloper.exe」をダブルクリックしコンソールツールを起動する。
 
